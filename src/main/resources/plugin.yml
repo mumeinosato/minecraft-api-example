@@ -1,0 +1,4 @@
+name: minecraft-api-example
+version: '${project.version}'
+main: mumeinosato.minecraftapiexample.Minecraft_api_example
+api-version: '1.20'
